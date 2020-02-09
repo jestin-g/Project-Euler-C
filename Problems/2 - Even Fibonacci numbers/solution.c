@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int sum_of_even_valued_fibonacci();
 
@@ -9,11 +8,8 @@ int main(void) {
 }
 
 int sum_of_even_valued_fibonacci() {
-
     int count = 0;
-
     int fibo[3] = {0,0,1};
-
     while (fibo[2] < 4000000) {
         fibo[0] = fibo[1];
         fibo[1] = fibo[2];
