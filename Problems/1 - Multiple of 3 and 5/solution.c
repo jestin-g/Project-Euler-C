@@ -3,7 +3,7 @@
 int sum_of_all_the_multiples_of_3_or_5_below_1000();
 
 int main(void) {
-    printf("Resultat: %d\n", sum_of_all_the_multiples_of_3_or_5_below_1000());
+    printf("Result: %d\n", sum_of_all_the_multiples_of_3_or_5_below_1000());
     return 0;
 }
 
