@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 int reverse_integer(int);
 int is_palindrome(int);
