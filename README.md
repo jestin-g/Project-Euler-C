@@ -1,4 +1,4 @@
 # Project-Euler-C
-Proposal of solutions to the problems of the Euler project in C language
+Proposals for solutions to Project Euler problems in C.
 
 [Project Euler](https://projecteuler.net)
